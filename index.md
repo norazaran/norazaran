@@ -18,11 +18,7 @@ I am studying computer engineering at PNU University.
 
 + ICDL2
 
-+
-
-+
-
-+ 
++ Zemne khedmate Farhangiyan
 
 ### Languages
 
@@ -32,19 +28,18 @@ I am studying computer engineering at PNU University.
 
 ### Licenses & Certifications
 
-- 
+- Bachelor of Software
 
 ### Working Experience
 
-- 
+- Teaching in education
 
-### Projects
-  
+- Work in an oil refinery
 
-### Titles and Honors
-  
+- Work in the gas department
 
 ### Other Accounts
   
+- Nothing
   
   Persian Resume: <a href=""> Resume </a>
