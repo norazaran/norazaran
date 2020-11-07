@@ -42,4 +42,4 @@ I am studying computer engineering at PNU University.
   
 - Nothing
   
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://norazaran.github.io/resume-fa.github.io/"> Resume </a>
